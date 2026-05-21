@@ -1,0 +1,23 @@
+# UiPath generated and local runtime files
+.local/
+.tmh/
+bin/
+obj/
+output/
+*.nupkg
+*.snupkg
+
+# Local machine and user-specific files
+*.user
+*.suo
+*.log
+*.tmp
+*.bak
+.vs/
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
